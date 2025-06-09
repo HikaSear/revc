@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\C\u002B\u002B\\open-vc\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54B9D7C-A182-9E0D-4A6F-841036851A0F}|reVC.vcxproj|C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\re3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54B9D7C-A182-9E0D-4A6F-841036851A0F}|reVC.vcxproj|C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54B9D7C-A182-9E0D-4A6F-841036851A0F}|reVC.vcxproj|C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Radar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "re3.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\re3.cpp",
+              "RelativeDocumentMoniker": "..\\src\\core\\re3.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\re3.cpp",
+              "RelativeToolTip": "..\\src\\core\\re3.cpp",
+              "ViewState": "AgIAAHsCAAAAAAAAAAAqwJQCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T10:07:42.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pad.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Pad.cpp",
+              "RelativeDocumentMoniker": "..\\src\\core\\Pad.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Pad.cpp",
+              "RelativeToolTip": "..\\src\\core\\Pad.cpp",
+              "ViewState": "AgIAANsEAAAAAAAAAAAAwO0EAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T23:29:22.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Radar.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Radar.cpp",
+              "RelativeDocumentMoniker": "..\\src\\core\\Radar.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B\\open-vc\\src\\core\\Radar.cpp",
+              "RelativeToolTip": "..\\src\\core\\Radar.cpp",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T23:27:59.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
