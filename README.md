@@ -1,1 +1,1 @@
-"# reVC - ��ࠡ�⪠ by HikaSear" 
+"# reVC - доработка by HikaSear" 
